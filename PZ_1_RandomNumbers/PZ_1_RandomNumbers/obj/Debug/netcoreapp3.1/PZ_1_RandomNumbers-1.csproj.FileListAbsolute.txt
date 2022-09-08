@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\bin\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.exe
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\bin\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.deps.json
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\bin\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.runtimeconfig.json
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\bin\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\bin\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.dll
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\bin\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.pdb
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\obj\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\obj\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\obj\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\obj\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\obj\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\obj\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.dll
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\obj\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.pdb
+C:\Users\Asus\source\repos\PZ_1_RandomNumbers\PZ_1_RandomNumbers\obj\Debug\netcoreapp3.1\PZ_1_RandomNumbers-1.genruntimeconfig.cache
