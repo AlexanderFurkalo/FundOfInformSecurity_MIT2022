@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\bin\Debug\netcoreapp3.1\PractZadan-2-1.exe
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\bin\Debug\netcoreapp3.1\PractZadan-2-1.deps.json
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\bin\Debug\netcoreapp3.1\PractZadan-2-1.runtimeconfig.json
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\bin\Debug\netcoreapp3.1\PractZadan-2-1.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\bin\Debug\netcoreapp3.1\PractZadan-2-1.dll
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\bin\Debug\netcoreapp3.1\PractZadan-2-1.pdb
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\obj\Debug\netcoreapp3.1\PractZadan-2-1.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\obj\Debug\netcoreapp3.1\PractZadan-2-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\obj\Debug\netcoreapp3.1\PractZadan-2-1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\obj\Debug\netcoreapp3.1\PractZadan-2-1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\obj\Debug\netcoreapp3.1\PractZadan-2-1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\obj\Debug\netcoreapp3.1\PractZadan-2-1.dll
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\obj\Debug\netcoreapp3.1\PractZadan-2-1.pdb
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\PractZadan-2\obj\Debug\netcoreapp3.1\PractZadan-2-1.genruntimeconfig.cache
