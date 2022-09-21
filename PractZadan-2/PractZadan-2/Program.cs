@@ -7,7 +7,7 @@ namespace PractZadan_2
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             string path = @"C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-2\mit2022.txt";
             byte[] origData = File.ReadAllBytes(path);
@@ -15,9 +15,16 @@ namespace PractZadan_2
             string text1 = Encoding.UTF8.GetString(origData);
             Console.WriteLine(text1);
             Console.WriteLine("End of original file");
+            Console.WriteLine("  ");
 
+            Console.WriteLine("Write password");
+            string keyword = Console.ReadLine();
+            Console.Write(keyword);
+            byte[] secret = Encoding.UTF8.GetBytes(keyword);
+            Console.WriteLine(System.Environment.NewLine + "Our int is: " + origData.Length % secret.Length + System.Environment.NewLine);
+            byte key = Convert.ToByte(origData.Length % secret.Length);
+            Console.WriteLine(" ");
             StreamWriter encfile = new StreamWriter(@"mit2022Encrypted.dat");
-            byte key = 2;
             List<byte> list1 = new List<byte>();
             foreach (byte i in origData)
             {
@@ -30,7 +37,7 @@ namespace PractZadan_2
             string TextEncr = Encoding.UTF8.GetString(array1);
             Console.WriteLine(TextEncr);
             encfile.Write(TextEncr);
-            Console.WriteLine("End of encrypted text");
+            Console.WriteLine("End of encrypted text" + System.Environment.NewLine);
             encfile.Close();
 
             StreamWriter decfile = new StreamWriter(@"mit2022Decrypted.dat");
@@ -46,8 +53,8 @@ namespace PractZadan_2
             string TextDecr = Encoding.UTF8.GetString(array2);
             Console.WriteLine(TextDecr);
             decfile.Write(TextDecr);
-            Console.WriteLine("End of decrypted file");
-            decfile.Close();
+            Console.WriteLine("End of decrypted file" + System.Environment.NewLine);
+            decfile.Close();             
         }
     }
 }
