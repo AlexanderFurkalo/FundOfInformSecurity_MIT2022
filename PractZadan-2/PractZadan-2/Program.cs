@@ -21,7 +21,7 @@ namespace PractZadan_2
             string keyword = Console.ReadLine();
             Console.Write(keyword);
             byte[] secret = Encoding.UTF8.GetBytes(keyword);
-            Console.WriteLine(System.Environment.NewLine + "Our int is: " + origData.Length % secret.Length + System.Environment.NewLine);
+            /*Console.WriteLine(Environment.NewLine + "Our int is: " + origData.Length % secret.Length + Environment.NewLine);
             byte key = Convert.ToByte(origData.Length % secret.Length);
             Console.WriteLine(" ");
             StreamWriter encfile = new StreamWriter(@"mit2022Encrypted.dat");
@@ -37,10 +37,35 @@ namespace PractZadan_2
             string TextEncr = Encoding.UTF8.GetString(array1);
             Console.WriteLine(TextEncr);
             encfile.Write(TextEncr);
-            Console.WriteLine("End of encrypted text" + System.Environment.NewLine);
-            encfile.Close();
+            Console.WriteLine("End of encrypted text" + Environment.NewLine);
+            encfile.Close(); */
 
-            StreamWriter decfile = new StreamWriter(@"mit2022Decrypted.dat");
+            int i = 0;
+            byte[] encrData = new byte[origData.Length];
+            while (i < origData.Length)
+            {
+                encrData[i] = (byte)(origData[i] ^ secret[i % secret.Length]);
+                i++;
+            }
+            string s = Encoding.UTF8.GetString(encrData);
+            Console.WriteLine(s);
+            File.WriteAllText(@"mit2022Encrypted.dat", s);
+            Console.WriteLine("End of encrypted file" + Environment.NewLine);
+
+            byte[] EncData = File.ReadAllBytes(@"mit2022Encrypted.dat");
+            int x = 0;
+            byte[] decrData = new byte[EncData.Length];
+            while (x < EncData.Length)
+            {
+                decrData[x] = (byte)(EncData[x] ^ secret[x % secret.Length]);
+                x++;
+            }
+            string st = Encoding.UTF8.GetString(decrData);
+            Console.WriteLine(st);
+            File.WriteAllText(@"mit2022Decrypted.dat", st); 
+            Console.WriteLine("End of decrypted file" + Environment.NewLine);
+
+            /*StreamWriter decfile = new StreamWriter(@"mit2022Decrypted.dat");
             byte[] EncData = File.ReadAllBytes(@"mit2022Encrypted.dat");
             List<byte> list2 = new List<byte>();
             foreach (byte i in EncData)
@@ -53,8 +78,8 @@ namespace PractZadan_2
             string TextDecr = Encoding.UTF8.GetString(array2);
             Console.WriteLine(TextDecr);
             decfile.Write(TextDecr);
-            Console.WriteLine("End of decrypted file" + System.Environment.NewLine);
-            decfile.Close();             
+            Console.WriteLine("End of decrypted file" + Environment.NewLine);
+            decfile.Close();*/
         }
     }
 }
