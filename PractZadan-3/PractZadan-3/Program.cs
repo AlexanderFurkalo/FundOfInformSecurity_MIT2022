@@ -47,7 +47,7 @@ namespace PractZadan_3
             Console.WriteLine($"Hash Sha512: {Convert.ToBase64String(Sha512ForText2)}" + Environment.NewLine);
 
             string text3 = "Another Text About Something new";
-            byte[] data3 = Encoding.Unicode.GetBytes(text2);
+            byte[] data3 = Encoding.Unicode.GetBytes(text3);
 
             var md5ForText3 = MD5Hash(data3);
             Guid guidForText3 = new Guid(md5ForText);
