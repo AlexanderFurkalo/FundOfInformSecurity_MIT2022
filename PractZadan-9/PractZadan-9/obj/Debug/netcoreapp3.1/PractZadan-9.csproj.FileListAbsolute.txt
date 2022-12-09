@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\bin\Debug\netcoreapp3.1\PractZadan-9.exe
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\bin\Debug\netcoreapp3.1\PractZadan-9.deps.json
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\bin\Debug\netcoreapp3.1\PractZadan-9.runtimeconfig.json
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\bin\Debug\netcoreapp3.1\PractZadan-9.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\bin\Debug\netcoreapp3.1\PractZadan-9.dll
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\bin\Debug\netcoreapp3.1\PractZadan-9.pdb
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\obj\Debug\netcoreapp3.1\PractZadan-9.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\obj\Debug\netcoreapp3.1\PractZadan-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\obj\Debug\netcoreapp3.1\PractZadan-9.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\obj\Debug\netcoreapp3.1\PractZadan-9.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\obj\Debug\netcoreapp3.1\PractZadan-9.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\obj\Debug\netcoreapp3.1\PractZadan-9.csproj.CopyComplete
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\obj\Debug\netcoreapp3.1\PractZadan-9.dll
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\obj\Debug\netcoreapp3.1\PractZadan-9.pdb
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\obj\Debug\netcoreapp3.1\PractZadan-9.genruntimeconfig.cache
+C:\Users\Asus\source\repos\AlexanderFurkalo\FundOfInformSecurity_MIT2022\PractZadan-9\PractZadan-9\bin\Debug\netcoreapp3.1\NLog.config

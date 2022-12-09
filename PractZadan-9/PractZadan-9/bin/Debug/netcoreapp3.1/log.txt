@@ -1,0 +1,7 @@
+`2022-12-09 02:35:02.1899|ERROR|PractZadan_9.Program|The authentication process failed, error name: System.Collections.Generic.KeyNotFoundException`
+`2022-12-09 02:39:22.1550|WARN|PractZadan_9.Program|Wrong password was entered, authentication process`
+`2022-12-09 02:39:22.1575|ERROR|PractZadan_9.Program|The authentication process failed, error name: PractZadan_9.WrongPassword`
+`2022-12-09 02:40:11.6379|WARN|PractZadan_9.Program|A user without proper rights attempted to access option "The Special Feature"`
+`2022-12-09 02:40:11.6379|ERROR|PractZadan_9.Program|The process gaining access to an option "The Special Feature" failed, error name: System.Security.SecurityException`
+`2022-12-09 02:41:39.3635|WARN|PractZadan_9.Program|A user without proper rights attempted to access option "The Special Feature"`
+`2022-12-09 02:41:39.3635|ERROR|PractZadan_9.Program|The process gaining access to an option "The Special Feature" failed, error name: System.Security.SecurityException`

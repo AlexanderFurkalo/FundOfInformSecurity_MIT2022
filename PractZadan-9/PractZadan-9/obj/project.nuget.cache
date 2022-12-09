@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cz4jwjrx0Uabw6TgcEh46c7ksSVKki/yGuJNu2In4k5qMemZPdbNato8uyYVRosF3AvTL3P6Rd76XSwwApEPGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\AlexanderFurkalo\\FundOfInformSecurity_MIT2022\\PractZadan-9\\PractZadan-9\\PractZadan-9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\nlog\\5.1.0\\nlog.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
